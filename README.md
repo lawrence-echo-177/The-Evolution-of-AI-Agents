@@ -1,5 +1,5 @@
 # The-Evolution-of-AI-Agents
-从 API Call-Function Call-MCP-Skill-Harness Engineer的整体Agent框架感知、发展历程及具体代码示例，用于教学。具体内容见The-Evolution-of-AI-Agents.ipynb.
+从 API Call-Function Call-MCP-Skill-Harness Engineer的整体Agent框架感知、发展历程及具体代码示例，用于教学。具体内容见The-Evolution-of-AI-Agents.ipynb。不想下载看notebook也可以看我上传到线上的版本https://cloudstudio.net/a/35025415654944768/edit。
 # AI Agent 是怎么一步步长出来的？
 
 这份笔记按**时间顺序**讲一件事：人们怎么从「只会聊天的模型」，一路走到「能接工具、能接系统、能工程化落地」的 Agent。
